@@ -1,7 +1,7 @@
-First column - start time
-Second column - end time
-Third column - amount of hours spent
-Fourth column - feature, which i made
+First column - start time<br>
+Second column - end time<br>
+Third column - amount of hours spent<br>
+Fourth column - feature, which i made<br>
  -------------------------------------------------------------------------------
   Jun 4    |  Jun 5   |	    4h	   | tune project(webpack, eslint, babel, html/css/js files
  ------------------------------------------------------------------------------- 
